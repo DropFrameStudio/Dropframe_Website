@@ -1,0 +1,10 @@
+{
+  "description": "Showcases Dropframe Studio's creative work and services through a modern, responsive design, enhancing visibility for small businesses and marketing teams.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
